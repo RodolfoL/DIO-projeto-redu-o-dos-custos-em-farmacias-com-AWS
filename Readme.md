@@ -31,9 +31,9 @@ Etapa 3:
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado custos de operação reduzidos e adequados a demanda, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
-
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+AWS LAMBDA: https://aws.amazon.com/pt/pm/lambda/
+AWS SUPPLY CHAIN: https://aws.amazon.com/pt/manufacturing/supply-chain/
+AWS AURORA: https://aws.amazon.com/pt/rds/aurora/
 
 Assinatura do Responsável pelo Projeto:
-
-[Nome do Responsável pelo Projeto]
+Rodolfo do Nascimento Leite
